@@ -164,7 +164,7 @@ specification][tr064].
   - fields
     - `max_data_rate_tx` (uint) - The connection's maximum transmit rate (kilobits/sec)
     - `max_data_rate_rx` (uint) - The connection's maximum receive rate (kilobits/sec)
-    - `cur_data_rate_tx` (uint) - The connection's maximum transmit rate (kilobits/sec)
+    - `cur_data_rate_tx` (uint) - The connection's current transmit rate (kilobits/sec)
     - `cur_data_rate_rx` (uint) - The connection's current receive rate (kilobits/sec)
 
 ## Example Output
